@@ -2,7 +2,7 @@
 # Model 1
 # Python implementation and how to use
 
-bla bla 
+Use the function in the file ml_model_features_computation.py to compute all features implemented. The computation time is very high.  You can use the function compute_features_vector() to generete a file with all features computed  or you can use the function get_features()  as X, y = get_features() to a genereta a features file and get X, y ready to be used in any classifier. 
 
 # Theory behind each features
 

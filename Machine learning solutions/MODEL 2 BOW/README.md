@@ -19,8 +19,6 @@ dictionary =
   "size",
   "put",
   ...
-
   ]
-
 There are very simple two features implemented. The first feature compute a vector representation of each answer using a predifined dictionary. The feature vector represents the occurenc of each word in the dictionary. 
 The classfier used is logistic regression. 

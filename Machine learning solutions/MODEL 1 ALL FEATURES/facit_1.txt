@@ -1,0 +1,7 @@
+how much vinegar was used in each container
+what type of vinegar was used in each container
+what materials to test
+what surface area of materials should be used
+how long each sample was rinsed in distilled water
+what drying method to use
+what size of container to use
